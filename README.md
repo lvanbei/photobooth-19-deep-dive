@@ -1,4 +1,4 @@
-# photohooth-19-deep-dive
+# Photohooth-19-deep-dive 📸
 Photobooth Phygital app in React
 
 Steps to follow : 
