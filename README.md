@@ -45,4 +45,6 @@ If you want to link the Photobooth to Firebase (storage) you will need to :
 
 1. Don't forget to put your Browser (Chrome) into developer mode and edit the window dimensions with the follow offset : 1080 by 1920.
 
-![Screenshot 2023-06-15 at 19 53 18](https://github.com/lvanbei/photohooth-19-deep-dive/assets/38706595/b4082f2a-6216-44d4-a2f9-277e08a752a6)
+![246196679-b4082f2a-6216-44d4-a2f9-277e08a752a6](https://github.com/lvanbei/photobooth-19-deep-dive/assets/38706595/2b2b43b7-0ee0-40ec-bce8-6983f4c0404f)
+
+
