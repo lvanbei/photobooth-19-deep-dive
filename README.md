@@ -1,6 +1,11 @@
 # Photobooth-19-deep-dive 📸
 Photobooth Phygital app in React
 
+<p align="center">
+  <img src=https://github.com/lvanbei/photobooth-19-deep-dive/assets/38706595/1c5b53a7-d88b-4fd9-a4c5-3b56acc85348/>
+</p>
+
+
 ## Table of content 
 
 1. [ Install the app. ](#install)
