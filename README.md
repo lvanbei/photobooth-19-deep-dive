@@ -11,7 +11,7 @@ Photobooth Phygital app in React
 ## Install the app
 
 1. Clone the repo.
-2. Install React through Node.js. Follow the guidelines here : https://react.dev/learn/start-a-new-react-project
+2. Install React through Node.js. Follow the guidelines [here](https://react.dev/learn/start-a-new-react-project)
 3. Open your terminal and go to the root of the repo.
 4. Type the commmand : `npm install`
 5. Type the command : `npm start`
