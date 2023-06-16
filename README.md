@@ -1,7 +1,7 @@
-# Photohooth-19-deep-dive 📸
+# Photobooth-19-deep-dive 📸
 Photobooth Phygital app in React
 
-# Table of content 
+## Table of content 
 
 1. [ Install the app. ](#install)
 2. [ Firebase config. ](#firebase)
